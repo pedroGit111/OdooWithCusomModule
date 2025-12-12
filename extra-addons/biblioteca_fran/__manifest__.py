@@ -2,7 +2,7 @@
 "name": "Biblioteca Alumno",
 "version": "1.0",
 "summary": "Módulo de práctica: gestión de libros",
-"author": "Alumno DAM",
+"author": "Pedro Martorell",
 "category": "Teaching",
 "depends": ["base"],
 "data": [
